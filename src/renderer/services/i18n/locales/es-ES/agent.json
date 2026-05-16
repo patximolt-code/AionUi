@@ -21,7 +21,7 @@
     "findingAlternatives": "Buscando alternativas disponibles...",
     "checkingAgent": "Verificando el {{agent}}...",
     "alternativesFound": "{{count}} alternativas disponibles encontradas",
-    "autoSwitching": "Auto-cambio a mejor agente disponible...",
+    "autoSwitching": "Auto-ambio a mejor agente disponible...",
     "configError": "Error de configuración. Por favor revise sus ajustes o seleccione una alternativa:",
     "noAlternatives": "No se encontraron agentes disponibles",
     "configureFirst": "Por favor configure un agente en Settings primero.",

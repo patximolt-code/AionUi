@@ -1,8 +1,7 @@
 /**
  * es-ES locale module index
- * Exports all translation modules for Spanish
+ * Exports all translation modules for Spanish (Spain)
  */
-
 import common from './common.json';
 import agentMode from './agentMode.json';
 import update from './update.json';
